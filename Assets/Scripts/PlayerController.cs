@@ -4,9 +4,6 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    public float moveSpeed = 10f;
-    Vector3 moveVector;
-
     // Start is called before the first frame update
     void Start()
     {
